@@ -1,0 +1,4 @@
+RENCANA WPU BELAJAR C#
+- belajar membuat Calculator
+- belajar mengupload source code di githup
+- mempelajari tentang git sama git hub
