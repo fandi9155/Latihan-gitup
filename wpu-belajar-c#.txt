@@ -2,6 +2,8 @@ RENCANA WPU BELAJAR C#
 - belajar membuat Calculator
 *C#
 *C++
+^viu
+^rect
 - belajar mengupload source code di githup
 - mempelajari tentang git sama git hub
 - menambah belahjar struktu data
