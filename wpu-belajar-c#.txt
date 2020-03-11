@@ -3,5 +3,7 @@ RENCANA WPU BELAJAR C#
 *C#
 *C++
 - belajar mengupload source code di githup
+^reach
+^claravel
 - mempelajari tentang git sama git hub
 - menambah belahjar struktu data
