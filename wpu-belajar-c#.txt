@@ -4,3 +4,4 @@ RENCANA WPU BELAJAR C#
 *C++
 - belajar mengupload source code di githup
 - mempelajari tentang git sama git hub
+- menambah belahjar struktu data
